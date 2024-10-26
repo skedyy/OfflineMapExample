@@ -8,7 +8,7 @@
         "maptiler-overlay-source": {
             "type": "raster",
             "tileSize": 256,
-            "url": "___FILE_URI___"
+            "url": "mbtiles:///data/user/0/com.skedyy.wifimap/wifimap/wifimap2.mbtiles"
         }
     },
     "layers": [
